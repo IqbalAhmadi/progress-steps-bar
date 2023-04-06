@@ -10,6 +10,10 @@ The progress steps are created using HTML, CSS, and JavaScript. The HTML is used
 
 To use the progress steps, simply click on the "Next" button to move to the next step. You can also click on the progress bar to navigate to a specific step.
 
+![progress step 1](./images/img-1.png)
+![progress step 1](./images/img-2.png)
+![progress step 1](./images/img-3.png)
+
 ## Troubleshooting
 
 If you encounter any issues when using the progress steps, try clearing your browser cache or restarting your browser.
